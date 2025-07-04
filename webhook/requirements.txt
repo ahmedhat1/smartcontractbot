@@ -1,0 +1,4 @@
+flask 
+functions-framework 
+google-cloud-documentai 
+python-dotenv 
