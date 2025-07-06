@@ -1,5 +1,0 @@
-# Ignore credentials and virtual environment
-credentials.json
-.env
-venv/
-__pycache__/
